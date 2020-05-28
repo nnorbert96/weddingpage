@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+}
+
+nav{
+    background: black;
+}
+
+nav ul a{
+    font-size: 2rem;
+    color: white;
+    float: right;
+}
